@@ -1,0 +1,22 @@
+{
+  "name": "galeria-pokemones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjramirez1/galeria-pokemones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjramirez1/galeria-pokemones/issues"
+  },
+  "homepage": "https://github.com/mjramirez1/galeria-pokemones#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
